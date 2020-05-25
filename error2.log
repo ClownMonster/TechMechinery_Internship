@@ -1,0 +1,13 @@
+[Sat Feb 02 00:30:55 2019] New connection: [connection: j8BjX4Z5tjk] [client 172.17.0.1:50784]
+[Sat Feb 02 00:30:55 2019] New request: [connection: j8BjX4Z5tjk] [request: p7pjX4Z5tjk] [pid 8] [client 172.17.0.1:50784]
+[Sat Feb 02 00:30:55 2019] [info] [C: j8BjX4Z5tjk] [R: p7pjX4Z5tjk] [pid 8] core.c(4739): [client 172.17.0.1:50784] AH00128: File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Sat Feb 02 00:30:55 2019] New request: [connection: j8BjX4Z5tjk] [request: ACtkX1Z5tjk] [pid 8] [client 172.17.0.1:50784]
+[Sat Feb 02 00:30:55 2019] [info] [C: j8BjX4Z5tjk] [R: ACtkX1Z5tjk] [pid 8] core.c(4739): [client 172.17.0.1:50784] AH00128: File does not exist: /usr/local/apache2/htdocs/foo.gif
+[Sat Feb 02 00:30:55 2019] New connection: [connection: gTxkX8Z6tjk] [client 172.17.0.1:50786]
+[Sat Feb 02 00:30:55 2019] New request: [connection: gTxkX8Z6tjk] [request: 5TVkX8Z6tjk] [pid 8] [client 172.17.0.1:50786]
+[Sat Feb 02 00:30:55 2019] [info] [C: gTxkX8Z6tjk] [R: 5TVkX8Z6tjk] [pid 8] core.c(4739): [client 172.17.0.1:50786] AH00128: File does not exist: /usr/local/apache2/htdocs/bar.gif
+[Sat Feb 02 00:30:55 2019] New request: [connection: gTxkX8Z6tjk] [request: wvRoX3Z6tjk] [pid 8] [client 172.17.0.1:50786]
+[Sat Feb 02 00:30:55 2019] [info] [C: gTxkX8Z6tjk] [R: wvRoX3Z6tjk] [pid 8] core.c(4739): [client 172.17.0.1:50786] AH00128: File does not exist: /usr/local/apache2/htdocs/foobar.gif
+[Sat Feb 02 00:30:55 2019] New request: [connection: gTxkX8Z6tjk] [request: i/JtX9Z7tjk] [pid 8] [client 172.17.0.1:50786]
+[Fri Feb 01 22:44:09 2019] First time: [pid 9] [client 172.17.0.1:50770]
+[Fri Feb 01 22:44:09 2019] [info] [pid 9] core.c(4739): [client 172.17.0.1:50770] AH00128: File does not exist: /usr/local/apache2/htdocs/favicon.ico
